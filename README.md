@@ -2,7 +2,7 @@
 
 ### Table of Contents
 - [Project Overview](#project-overview)
-- [Data Cleaning/preparation](#data-cleaning/preparation)
+- [Data Cleaning/preparation](Data-Cleaning/preparation)
 - [Data Processing](#data-processing)
 - [Data Visualization and report](#data-visualization-and-report)
 - [Insight Sharing](#insight-sharing)
