@@ -1,7 +1,11 @@
 ## Vrinda Store Annual Report
 
 ### Table of Contents
-- [Data Analysis](#data-analysis)
+- [Project Overview](#project-overview)
+- [Data cleaning/preparation](#data-cleaning/preparation)
+- [Data Processing](#data-processing)
+- [Data Visualization and report](#data-visualization-and-report)
+- [Insight Sharing](#insight-sharing)
 
 ### Project Overview
 
@@ -12,14 +16,14 @@ The data set used for analyis is
 
 ### Steps followed
 
-###  Data cleaning/preparation
+###  Data Cleaning/preparation
    - removing null values, and duplicates and making data consistent
    - like replace function M replaced with men
-### Data processing
+### Data Processing
    - bucketing or grouping of age into age groups for interpretation using IF formula
    - extracting month from dates using text =text(cell, mmm")
 
-### Data analysis
+### Data Analysis
 -  pivot table formation
    - Monthly sales Vs orders combo chart - sec axis function, format axis - number - lakhs to million - 0.00 "M"
    - Men vs Women sales - Pie chart - %
@@ -30,7 +34,7 @@ The data set used for analyis is
    - Slicer use 
 
 
-### Data visualization and report
+### Data Visualization and report
    - Data visualized using Power BI
 
 ### Insight Sharing
