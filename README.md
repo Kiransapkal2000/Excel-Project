@@ -2,7 +2,7 @@
 
 ### Table of Contents
 - [Project Overview](#project-overview)
-- [Data Cleaning/preparation](#data-cleaning/preparation)
+- [Data Cleaning and preparation](#data-cleaning-and-preparation)
 - [Data Processing](#data-processing)
 - [Data Analysis](#data-analysis)
 - [Data Visualization and report](#data-visualization-and-report)
@@ -14,10 +14,11 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 
 ### Data Source
 The data set used for analyis is 
+[Vrinda Store Annual Report Project 1.xlsx](https://github.com/Kiransapkal2000/Excel-Project/files/15209415/Vrinda.Store.Annual.Report.Project.1.xlsx)
 
 ### Steps followed
 
-###  Data Cleaning/preparation
+###  Data Cleaning and preparation
    - removing null values, and duplicates and making data consistent
    - like replace function M replaced with men
 ### Data Processing
