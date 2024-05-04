@@ -21,9 +21,13 @@ The data set used for analyis is
 ###  Data Cleaning and preparation
    - removing null values, and duplicates and making data consistent
    - like replace function M replaced with men
+     ![Data cleaning image](https://github.com/Kiransapkal2000/Excel-Project/assets/168325077/2ec46893-fa75-4410-ad2d-90343b15ca78)
+
 ### Data Processing
    - bucketing or grouping of age into age groups for interpretation using IF formula
    - extracting month from dates using text =text(cell, mmm")
+     ![Data processing](https://github.com/Kiransapkal2000/Excel-Project/assets/168325077/d505dabc-a4e0-4793-b76c-f34bd6c82c74)
+
 
 ### Data Analysis
 -  pivot table formation
@@ -33,10 +37,14 @@ The data set used for analyis is
    - Top 5 states with highest sales - horizontal chart - number format edit
    - Age group-wise orders - orders - %: - combo chart
    - Which platform has the highest sales/order
-   - Slicer use 
+   - Slicer use
+     ![Data analysis](https://github.com/Kiransapkal2000/Excel-Project/assets/168325077/602d0cb1-293b-4b7f-8e7e-e87f5921a2ee)
+
 
 
 ### Data Visualization and report
    - Data visualized using Power BI
+     ![Data visualization and Report](https://github.com/Kiransapkal2000/Excel-Project/assets/168325077/d6e07562-505d-4786-b6d0-20763b24f653)
+
 
 ### Insight Sharing
